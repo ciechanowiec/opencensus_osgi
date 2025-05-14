@@ -20,7 +20,7 @@
 
 == Overview
 
-This repository delivers a shaded OSGi bundle of https://github.com/census-instrumentation/opencensus-java[_OpenCensus_] artifacts for running inside the https://github.com/ciechanowiec/sling_rocket[_Sling Rocket_] environment.
+This repository delivers a shaded OSGi bundle of https://github.com/census-instrumentation/opencensus-java[_OpenCensus_^] artifacts for running inside the https://github.com/ciechanowiec/sling_rocket[_Sling Rocket_^] environment.
 
 [upperalpha]
 . Maven coordinates for the bundle delivered by this repository:
@@ -56,7 +56,7 @@ This repository delivers a shaded OSGi bundle of https://github.com/census-instr
 
 . To run the bundle delivered by this repository, Java 21 or higher is required.
 
-. All dependencies not present in the https://github.com/ciechanowiec/sling_rocket[_Sling Rocket_] environment and required by the bundle delivered by this repository are embedded within the bundle itself, ensuring it is self-sufficient and ready to run.
+. All dependencies not present in the https://github.com/ciechanowiec/sling_rocket[_Sling Rocket_^] environment and required by the bundle delivered by this repository are embedded within the bundle itself, ensuring it is self-sufficient and ready to run.
 
 == License
 The program is subject to MIT No Attribution License
